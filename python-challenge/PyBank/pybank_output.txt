@@ -1,0 +1,5 @@
+total number of months : 86
+net total amount : 38382578.0
+Average : 446309.0465116279
+greatest value: ['Feb-2012', '1170593']
+Lowest value: ['Sep-2013', '-1196225']
