@@ -1,5 +1,4 @@
-# python-challenge
-# Assignment 3
+# business_analysik
 # Import our dependencies
 import os
 import numpy
