@@ -37,7 +37,7 @@ for column in reader:
             lowest_tuple = column
         
     count+=1
-    
+   
     
 #generate the average.
 temp_average = sum(average_list) / len(average_list)
