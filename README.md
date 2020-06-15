@@ -1,4 +1,4 @@
-# business_analysik
+# business_analysis
 # Import our dependencies
 import os
 import numpy
