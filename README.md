@@ -63,3 +63,4 @@ text_file.write('greatest value: ' + str(greatest_tuple))
 text_file.write('\n')
 text_file.write('Lowest value: ' + str(lowest_tuple))
 text_file.close()
+
