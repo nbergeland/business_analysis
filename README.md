@@ -18,7 +18,7 @@ lowest_date = 0
 lowest_tuple = None
 total = 0
 count = 0
-
+ 
 for column in reader:
     #make sure not to iterate on the column names
     if count >= 1:
