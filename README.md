@@ -67,7 +67,3 @@ text_file.close()
 
 
 
-
-
-
-
